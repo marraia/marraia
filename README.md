@@ -1,16 +1,13 @@
-### Hi there 👋
+# Fernando Mendes
+[![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-abreu-mendes/)](https://www.linkedin.com/in/fernando-abreu-mendes/) [![Medium Badge](https://img.shields.io/badge/-@fernando.abreu-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@fernando.abreu/)](https://medium.com/fernando.abreu/)
+[![Gmail Badge](https://img.shields.io/badge/-fernando.abreu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fernando.abreu1@gmail.com)](mailto:fernando.abreu@gmail.com)
+---
 
-<!--
-**marraia/marraia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋,           
+Sou Fernando Mendes, Arquiteto .Net, Desenvolvedor .Net, Palestrante.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧐 About
+- Co-Fundador da comunidade @Jundevelopers
+- Palestrante e autor de vários artigos
+- Instrutor técnico do @AcademiaDotNet
+- Fundador do @EventFlow
