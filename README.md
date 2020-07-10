@@ -11,6 +11,7 @@ Sou Fernando Mendes:
 
 ## 🧐 About
 - Co-Fundador da comunidade @Jundevelopers
+- Membro do @dotnet-foundation
 - Palestrante e autor de vários artigos
 - Instrutor técnico do @AcademiaDotNet
 - Fundador do @EventFlow
