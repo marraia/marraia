@@ -6,7 +6,7 @@
 ## Hi there 👋,           
 Sou Fernando Mendes:
 - Arquiteto de software .Net
-- Microsoft MVP
+- Microsoft MVP :trophy:
 - Desenvolvedor .Net
 - Palestrante  
 
