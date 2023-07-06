@@ -6,7 +6,7 @@
 ## Hi there 👋,           
 Sou Fernando Mendes:
 - Arquiteto de software .Net
-- Microsoft MVP :trophy::trophy:
+- Ex-Microsoft MVP :trophy:(2021):trophy:(2022)
 - Desenvolvedor .Net
 - Palestrante  
 
