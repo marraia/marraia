@@ -46,9 +46,9 @@ foco: Clean Architecture, Microservices, Soluções Cloud
 
 <div align="center">
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=marraia&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+<img src="https://github-readme-stats.vercel.app/api?username=marraia&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas GitHub" />
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marraia&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marraia&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" />
 
 </div>
 
