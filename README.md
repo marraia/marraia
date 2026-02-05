@@ -44,13 +44,14 @@ foco: Clean Architecture, Microservices, Soluções Cloud
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marraia&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marraia&theme=tokyonight&hide_border=true&locale=pt-br" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=marraia&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas GitHub" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marraia&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens Mais Usadas" />
-
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marraia&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+</p>
 
 ## 💡 Expertise Técnico
 
