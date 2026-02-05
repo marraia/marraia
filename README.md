@@ -8,7 +8,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fernando.abreu/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernando.abreu@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=marraia&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="visualizações do perfil" />
+![](https://komarev.com/ghpvc/?username=marraia&label=Visualizações%20do%20perfil&color=0e75b6&style=flat)
 
 </div>
 
@@ -42,17 +42,6 @@ foco: Clean Architecture, Microservices, Soluções Cloud
 | 📚 Instrutor Técnico | [@AcademiaDotNet](https://github.com/AcademiaDotNet) | Educando a próxima geração de desenvolvedores |
 | 🎨 Fundador | [@EventFlow](https://github.com/EventFlow) | Criador de projeto open source |
 
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marraia&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=marraia&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marraia&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
-</p>
-
 ## 💡 Expertise Técnico
 
 ```text
@@ -62,6 +51,22 @@ Cloud (Azure)   ████████████████░░░░   8
 Microservices   ████████████████░░░░   85%
 DevOps          ██████████████░░░░░░   70%
 ```
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+</div>
 
 ## 📝 Últimos Artigos no Blog
 
