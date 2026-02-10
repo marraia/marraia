@@ -39,7 +39,6 @@ foco: Clean Architecture, Microservices, Soluções Cloud
 |------|-------------|-------------|
 | 🤝 Co-Fundador | [@Jundevelopers](https://github.com/Jundevelopers) | Liderando comunidade de desenvolvedores |
 | 🌐 Membro | [@dotnet-foundation](https://github.com/dotnet-foundation) | Contribuindo para o ecossistema .NET |
-| 📚 Instrutor Técnico | [@AcademiaDotNet](https://github.com/AcademiaDotNet) | Educando a próxima geração de desenvolvedores |
 | 🎨 Fundador | [@EventFlow](https://github.com/EventFlow) | Criador de projeto open source |
 
 ## 💡 Expertise Técnico
@@ -71,7 +70,7 @@ DevOps          ██████████████░░░░░░   7
 ## 📝 Últimos Artigos no Blog
 
 <!-- BLOG-POST-LIST:START -->
-- Confira meus artigos no [Medium](https://medium.com/@fernando.abreu/)
+- Confira meus artigos no [Medium](https://medium.com/@marraia/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
